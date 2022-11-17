@@ -3,6 +3,8 @@ Hüseyin PEKKAN - AI Engineering - @hpekkan </br>
 Muhammed Ata Turhan AI - Engineering - @fotino21</br>
 Berkay Yıldız Computer - Engineering - @berykay</br>
 ## Getting Started
+It is the project that you can buy products on different websites but have one basket. By this way you can use one web site to buy from one or many website. In the below there is a small demo or you can use your local to try. 
+-git clone https://github.com/berykay/webAppProject.git
 
 First, run the development server:
 
