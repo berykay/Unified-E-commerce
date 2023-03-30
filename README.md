@@ -1,3 +1,6 @@
+## Project Description:
+&nbsp; &nbsp; "Unified E-commerce" is a web application that simplifies the online shopping experience by allowing users to purchase products from multiple e-commerce websites using a single shopping cart. The project is built using ReactJS as the front-end framework and SQL as the database management system.
+
 ## Authors
 Berkay Yıldız Computer - Engineering - @berykay</br>
 Hüseyin PEKKAN - AI Engineering - @hpekkan </br>
